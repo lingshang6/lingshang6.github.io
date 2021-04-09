@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cnyulin.github.io</id>
     <title>免费SSR，v2ray节点分享</title>
-    <updated>2021-04-09T03:30:10.904Z</updated>
+    <updated>2021-04-09T08:52:28.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cnyulin.github.io"/>
     <link rel="self" href="https://cnyulin.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://cnyulin.github.io/images/avatar.png</logo>
     <icon>https://cnyulin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 免费SSR，v2ray节点分享</rights>
+    <entry>
+        <title type="html"><![CDATA[ 2021年04月09日更新：12个免费高速v2ray，ssr节点分享]]></title>
+        <id>https://cnyulin.github.io/post/2021-nian-03-yue-25-ri-geng-xin-12-ge-mian-fei-gao-su-v2rayssr-jie-dian-fen-xiang/</id>
+        <link href="https://cnyulin.github.io/post/2021-nian-03-yue-25-ri-geng-xin-12-ge-mian-fei-gao-su-v2rayssr-jie-dian-fen-xiang/">
+        </link>
+        <updated>2021-04-09T08:50:20.000Z</updated>
+        <content type="html"><![CDATA[<p>SSR &amp; V2ray 免费节点及订阅地址分享和推荐，各种实用网站和软件分享。 此节点仅作学习交流用，用于查找资料，学习知识，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现违法问题概不负责</p>
+<p>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFrOebiuiKgueCuSIsDQogICJhZGQiOiAiMTMuMjA4LjI0OC4yMDgiLA0KICAicG9ydCI6ICIzNTEwNSIsDQogICJpZCI6ICI2OTE0ZjRjYy1mYTRiLTRkNWUtOWE3Ny1kNmY4ZWE1ZTJmMzQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFrOebiuiKgueCuSIsDQogICJhZGQiOiAidHcwNS56bml1bml1Lnh5eiIsDQogICJwb3J0IjogIjMwNTQzIiwNCiAgImlkIjogIjgxNDAwNmEwLTc1NTQtM2U4Ny04YWY1LTZlNjU4Y2Q3YzA4NyIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFrOebiuiKgueCuSIsDQogICJhZGQiOiAiaGsxMi56bml1bml1Lnh5eiIsDQogICJwb3J0IjogIjMxMjE1IiwNCiAgImlkIjogIjgxNDAwNmEwLTc1NTQtM2U4Ny04YWY1LTZlNjU4Y2Q3YzA4NyIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIwOC43OC40MS4xOTc6MzM5OTI=#%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDEzOC4xOTkuMTkuMTM0OjM5Nzcy#%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9<br>
+ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hlQDY0LjQ0LjQyLjE5NjozMzk5OA==#%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE3OC4yMzguMjMxLjUzOjM5Nzcy#%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9<br>
+ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hlQDE5Mi40MC41OS4yMjc6MzM5OTg=#%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFrOebiuiKgueCuSIsDQogICJhZGQiOiAidjItMDMuc3Nyc3ViLm9uZSIsDQogICJwb3J0IjogIjE1MyIsDQogICJpZCI6ICI2YmI5OTAxMi01MTY5LTQwNWItOTQ0My0wNWQ4NzczZmMxMjAiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJuNDZobTUyNzczLmxhb3dhbnhpYW5nLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFrOebiuiKgueCuSIsDQogICJhZGQiOiAiZnJlZS5taWxhZ3JvcGV0cy50ZWNoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiZmU0YjA5ZDYtOGFmNi0zM2EyLTgzNDAtZDM1MzlmOGM4YTRjIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICIiDQp9<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFrOebiuiKgueCuSIsDQogICJhZGQiOiAic2cxMzIyLmF6emljby5zcGFjZSIsDQogICJwb3J0IjogIjExNTU4IiwNCiAgImlkIjogIjhiZGQyOTI1LTcyMTgtMzE0Yi05ODdhLWRjYmI0NGQwOTg1MiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2cxMzIyLmF6emljby5zcGFjZSIsDQogICJwYXRoIjogIi92aWRlbyIsDQogICJ0bHMiOiAiIg0KfQ==<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE5My4yOS4xMDcuMTI1OjM5Nzcy#%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9</p>
+<p>Clash安卓客户端<br>
+https://github.com/naicfeng/ClashRFor...​</p>
+<p>V2Ray电脑客户端<br>
+https://github.com/2dust/v2rayN/releases​</p>
+<p>V2Ray安卓客户端<br>
+https://github.com/2dust/v2rayNG/rele...​</p>
+<p>WinXRay电脑客户端<br>
+https://youtu.be/TsywBFFA2ZU​</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[  2021年04月07日更新：18个免费高速v2ray，SSR节点分享]]></title>
         <id>https://cnyulin.github.io/post/IvIxcZGcM/</id>
